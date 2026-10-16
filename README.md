@@ -1,2 +1,2 @@
 # Flight Operations
-Realtime Flight Operation Based on Medaliion structure
+Realtime Flight Operation Based on Medalion structure
